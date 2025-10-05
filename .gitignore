@@ -1,9 +1,6 @@
 venv/
 __pycache__/
 *.pyc
-*.h5
-*.hdf5
-*.xml
 .DS_Store
 .vscode/
 .idea/
